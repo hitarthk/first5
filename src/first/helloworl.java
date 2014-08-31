@@ -12,4 +12,9 @@ public class helloworl
 	{
 		System.out.println("in first");
 	}
+	
+	public void start2()
+	{
+		System.out.println("in second");
+	}
 }
