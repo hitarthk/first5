@@ -7,4 +7,9 @@ public class helloworl
 		System.out.println("dsfhjgf");
 	
 	}
+	
+	public void start()
+	{
+		System.out.println("in first");
+	}
 }
