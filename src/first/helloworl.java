@@ -11,6 +11,8 @@ public class helloworl
 	public void start()
 	{
 		System.out.println("in first");
+		System.out.println("in swcond");
+		
 	}
 	
 	public void start2()
