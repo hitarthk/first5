@@ -17,4 +17,9 @@ public class helloworl
 	{
 		System.out.println("in second");
 	}
+	
+	public void start3()
+	{
+		System.out.println("hadg");
+	}
 }
