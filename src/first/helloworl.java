@@ -24,4 +24,9 @@ public class helloworl
 	{
 		System.out.println("hadg");
 	}
+	
+	public void start4()
+	{
+		System.out.println("This method is added by Hitarth."); 
+	}
 }
