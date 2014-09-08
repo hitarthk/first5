@@ -11,4 +11,9 @@ public class second
 	{
 		//this is new v1.1
 	}
+	
+	public void start2()
+	{
+		//this is by hitarth
+	}
 }
